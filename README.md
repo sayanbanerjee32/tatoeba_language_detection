@@ -4,3 +4,4 @@ Resource Page: https://tatoeba.org/en/downloads
 Download Link: https://downloads.tatoeba.org/exports/sentences.tar.bz2 (~155 MB compressed)
 
 ## A PDF document discussing the approach of model building and description of each notebook is available in this repo.
+https://github.com/sayanbanerjee32/tatoeba_language_detection/blob/main/lang_detect_approach.pdf
